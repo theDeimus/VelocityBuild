@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A high speed chase across the Sunstar System.
 
 ## Getting Started
 
